@@ -1,4 +1,4 @@
-//
+﻿//
 //  AppDelegate.h
 //  GoodFarming
 //
@@ -14,3 +14,4 @@
 
 @end
 liwei？
+pc
